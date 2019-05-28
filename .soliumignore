@@ -7,3 +7,4 @@ examples/testnet/contracts/Oracle.sol
 examples/testnet/contracts/ConversionRate.sol
 evm/contracts/lib
 evm/box/node_modules
+evm/node_modules
